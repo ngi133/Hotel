@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduyk\\source\\repos\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\entidades\\valueobjects\\estadoreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\entidades\\valueobjects\\estadoreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\entidades\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\entidades\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\entidades\\valueobjects\\fechanacimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\entidades\\valueobjects\\fechanacimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\entidades\\valueobjects\\fechareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\entidades\\valueobjects\\fechareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\entidades\\valueobjects\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\entidades\\valueobjects\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\repositorio\\ihabitacionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\repositorio\\ihabitacionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\repositorio\\ireservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\repositorio\\ireservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE89939-CF38-4ED0-8089-C1E18452A072}|02_Aplicacion\\02_Aplicacion.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\02_aplicacion\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE89939-CF38-4ED0-8089-C1E18452A072}|02_Aplicacion\\02_Aplicacion.csproj|solutionrelative:02_aplicacion\\reservaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\entidades\\valueobjects\\identificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\entidades\\valueobjects\\identificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\repositorio\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\repositorio\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\entidades\\valueobjects\\nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\entidades\\valueobjects\\nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5763F679-D457-4746-AFC9-664B258121D2}|01_Presentacion\\01_Presentacion.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\01_presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5763F679-D457-4746-AFC9-664B258121D2}|01_Presentacion\\01_Presentacion.csproj|solutionrelative:01_presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|c:\\users\\eduyk\\source\\repos\\hotel\\03_dominio\\entidades\\valueobjects\\apellido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6CCCB-C0CE-4910-8B32-86A62FA20A26}|03_Dominio\\03_Dominio.csproj|solutionrelative:03_dominio\\entidades\\valueobjects\\apellido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstadoReserva.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\EstadoReserva.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Entidades\\valueObjects\\EstadoReserva.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\EstadoReserva.cs",
+              "RelativeToolTip": "03_Dominio\\Entidades\\valueObjects\\EstadoReserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:39:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FechaReserva.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\FechaReserva.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Entidades\\valueObjects\\FechaReserva.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\FechaReserva.cs",
+              "RelativeToolTip": "03_Dominio\\Entidades\\valueObjects\\FechaReserva.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:33:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Identificador.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\Identificador.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Entidades\\valueObjects\\Identificador.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\Identificador.cs",
+              "RelativeToolTip": "03_Dominio\\Entidades\\valueObjects\\Identificador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:24:57.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservaService.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\02_Aplicacion\\ReservaService.cs",
+              "RelativeDocumentMoniker": "02_Aplicacion\\ReservaService.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\02_Aplicacion\\ReservaService.cs",
+              "RelativeToolTip": "02_Aplicacion\\ReservaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:18:55.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Numero.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\Numero.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Entidades\\valueObjects\\Numero.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\Numero.cs",
+              "RelativeToolTip": "03_Dominio\\Entidades\\valueObjects\\Numero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:15:58.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHabitacionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Repositorio\\IHabitacionRepositorio.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Repositorio\\IHabitacionRepositorio.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Repositorio\\IHabitacionRepositorio.cs",
+              "RelativeToolTip": "03_Dominio\\Repositorio\\IHabitacionRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:01:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReservaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Repositorio\\IReservaRepositorio.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Repositorio\\IReservaRepositorio.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Repositorio\\IReservaRepositorio.cs",
+              "RelativeToolTip": "03_Dominio\\Repositorio\\IReservaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:00:29.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Repositorio\\IClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Repositorio\\IClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Repositorio\\IClienteRepositorio.cs",
+              "RelativeToolTip": "03_Dominio\\Repositorio\\IClienteRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:58:13.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FechaNacimiento.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\FechaNacimiento.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Entidades\\valueObjects\\FechaNacimiento.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\FechaNacimiento.cs",
+              "RelativeToolTip": "03_Dominio\\Entidades\\valueObjects\\FechaNacimiento.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:37:51.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\Habitacion.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Entidades\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\Habitacion.cs",
+              "RelativeToolTip": "03_Dominio\\Entidades\\Habitacion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:55:27.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\Reserva.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Entidades\\Reserva.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\Reserva.cs",
+              "RelativeToolTip": "03_Dominio\\Entidades\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:55:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Nombre.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\Nombre.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Entidades\\valueObjects\\Nombre.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\Nombre.cs",
+              "RelativeToolTip": "03_Dominio\\Entidades\\valueObjects\\Nombre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:19:28.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "03_Dominio\\Entidades\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:53:49.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Apellido.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\Apellido.cs",
+              "RelativeDocumentMoniker": "03_Dominio\\Entidades\\valueObjects\\Apellido.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\03_Dominio\\Entidades\\valueObjects\\Apellido.cs",
+              "RelativeToolTip": "03_Dominio\\Entidades\\valueObjects\\Apellido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:34:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\Hotel\\01_Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "01_Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\Hotel\\01_Presentacion\\Program.cs",
+              "RelativeToolTip": "01_Presentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:54:11.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

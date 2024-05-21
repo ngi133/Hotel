@@ -1,0 +1,11 @@
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\bin\Debug\net8.0\03_Dominio.deps.json
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\bin\Debug\net8.0\03_Dominio.dll
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\bin\Debug\net8.0\03_Dominio.pdb
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\obj\Debug\net8.0\03_Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\obj\Debug\net8.0\03_Dominio.AssemblyInfoInputs.cache
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\obj\Debug\net8.0\03_Dominio.AssemblyInfo.cs
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\obj\Debug\net8.0\03_Dominio.csproj.CoreCompileInputs.cache
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\obj\Debug\net8.0\03_Dominio.dll
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\obj\Debug\net8.0\refint\03_Dominio.dll
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\obj\Debug\net8.0\03_Dominio.pdb
+C:\Users\eduyk\source\repos\Hotel\03_Dominio\obj\Debug\net8.0\ref\03_Dominio.dll

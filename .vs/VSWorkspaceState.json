@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\01_Presentacion",
+    "\\03_Dominio",
+    "\\03_Dominio\\Entidades",
+    "\\03_Dominio\\Entidades\\valueObjects"
+  ],
+  "SelectedNode": "\\03_Dominio\\Entidades\\Cliente.cs",
+  "PreviewInSolutionExplorer": false
+}
